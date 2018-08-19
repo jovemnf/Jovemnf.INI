@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Jovemnf.INI</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Jovemnf</Authors>
+    <Company>Jovemnf</Company>
+    <IsPackable>true</IsPackable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>Pacote .net core para ler e escrever arquivos .ini . </Title>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/jovemnf/Jovemnf.MySQL.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/jovemnf/Jovemnf.MySQL/blob/master/README.md</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
